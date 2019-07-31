@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-associated with Bootstrap-Portfolio repository
+Responsiveness Assignment - associated with Bootstrap-Portfolio repository
